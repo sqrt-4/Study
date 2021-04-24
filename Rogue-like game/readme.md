@@ -26,3 +26,6 @@
   врагов
 5)Реализован графический эффект перехода между уровнями
 
+Result:
+
+![](https://github.com/sqrt-4/Study/blob/master/Rogue-like%20game/result.gif)
